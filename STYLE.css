@@ -1,0 +1,37 @@
+img {
+    width: 100%;
+    height: auto;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    font-size: 33px;
+    color: darkolivegreen;
+}
+ul{
+    color:rgb(45, 116, 38);
+    text-align: justify;
+    text-decoration: solid;
+    font-size: 37px;
+}
+body {
+    background-color:  rgb(219, 234, 187);
+  }
+  
+  h1 {
+    color: white;
+    background-color: rgb(71, 97, 15);
+    padding: 10px;
+  }
+  h3{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(61, 89, 61);
+  }
+  @media (max-width: 600px) {
+    
+  }
+  
